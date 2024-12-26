@@ -1,1 +1,3 @@
-直接用就行
+有GUI的PDF和Word文件互相转换的py小程序
+下载后推行前可以先pip一下需要用到的第三方库
+pip install -r requirements.txt
